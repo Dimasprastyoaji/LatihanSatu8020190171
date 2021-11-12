@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    8020190084 Robi Aulia Kurniawan
+                    Laravel
                 
                 </div>
 
